@@ -1,4 +1,4 @@
- ## Hello, I'm Manisha.
+ ## 👋 Hello, I'm Manisha.
 
   ### About Me
 - I’m interested in  Data Analysis, and visualization and love learning new skills.
@@ -7,5 +7,5 @@
 
 ## Skills And Projects
 -PowerBI: [Superstore Sales Analysis ](https://mavenanalytics.io/project/11484
-)https://mavenanalytics.io/project/11484
+)
               
