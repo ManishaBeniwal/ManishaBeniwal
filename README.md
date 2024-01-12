@@ -6,4 +6,6 @@
 - I'm still learning every day and growing my skills as I truly believe  "Learning should never Stop".
 
 ## Skills And Projects
--PowerBI : https://mavenanalytics.io/project/11484
+-PowerBI: [Superstore Sales Analysis ](https://mavenanalytics.io/project/11484
+)https://mavenanalytics.io/project/11484
+              
