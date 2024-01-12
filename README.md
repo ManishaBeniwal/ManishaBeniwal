@@ -7,5 +7,5 @@
 
 ## Skills And Projects
 -PowerBI: [Superstore Sales Analysis ](https://mavenanalytics.io/project/11484) , [Banking Domain-spend Analysis](https://mavenanalytics.io/project/11486)
-)
+
               
